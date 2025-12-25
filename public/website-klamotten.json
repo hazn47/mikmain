@@ -1,0 +1,85 @@
+[
+  {
+    "id": "hemd",
+    "name": "Business Hemd",
+    "category": "Business Wear",
+    "description": "Klassisches Business-Hemd mit modernem Schnitt und hoher Tragekomfort.",
+    "features": [
+      "Premium Baumwollmischung",
+      "Knitterarm",
+      "Ideal für Corporate Designs"
+    ],
+    "materials": ["Baumwolle", "Polyester"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "customization": true,
+    "folder": "Hemd",
+    "images": ["front", "kragen", "ruecken", "seite"]
+  },
+  {
+    "id": "polar-fleece",
+    "name": "Polar Fleece Jacke",
+    "category": "Workwear",
+    "description": "Warme Fleece-Jacke für Indoor- und Outdoor-Einsätze.",
+    "features": [
+      "Weiches Fleece",
+      "Hoher Kragen",
+      "Reißverschluss-Taschen"
+    ],
+    "materials": ["Polyester"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "customization": true,
+    "folder": "Polar Fleece",
+    "images": ["front", "kragen", "ruecken", "seite"]
+  },
+  {
+    "id": "schuerze-lang",
+    "name": "Schürze lang",
+    "category": "Gastro & Hotel",
+    "description": "Lange Service-Schürze für Gastronomie und Catering.",
+    "features": [
+      "Pflegeleicht",
+      "Lange Ausführung",
+      "Ideal für Logo-Stick"
+    ],
+    "materials": ["Polyester", "Baumwolle"],
+    "sizes": ["Einheitsgröße"],
+    "customization": true,
+    "folder": "schürze lang",
+    "images": ["front", "umhang"]
+  },
+  {
+    "id": "t-shirt-basic",
+    "name": "T-Shirt Basic",
+    "category": "Service & Retail",
+    "description": "Klassisches T-Shirt für Service, Promotion und Merchandise.",
+    "features": [
+      "Angenehmer Tragekomfort",
+      "Ideal für Druck und Veredelung",
+      "Unisex-Schnitt"
+    ],
+    "materials": ["Baumwolle"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "customization": true,
+    "folder": "T Shirt",
+    "images": ["front", "kragen", "ruecken"]
+  },
+  {
+    "id": "t-shirt-drytouch",
+    "name": "T-Shirt Drytouch",
+    "category": "Workwear",
+    "description": "Funktionales T-Shirt mit schnelltrocknender Drytouch-Technologie.",
+    "features": [
+      "Atmungsaktiv",
+      "Schnelltrocknend",
+      "Ideal für aktive Einsätze"
+    ],
+    "materials": ["Polyester", "Elasthan"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "customization": true,
+    "folder": "T shirt Drytouch",
+    "images": ["front", "kragen", "ruecken", "seite"]
+  }
+]
+
+
+
