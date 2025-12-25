@@ -5,7 +5,7 @@ type DayPhase = "sabah" | "ogle" | "ikindi" | "aksam" | "yatsi";
 
 const phaseBackgrounds: Record<DayPhase, string> = {
   sabah: "/sabah.png",
-  ogle: "/öglen.png",
+  ogle: "/" + encodeURIComponent("öglen.png"),
   ikindi: "/ikindi.png",
   aksam: "/aksam.png",
   yatsi: "/yatsi.png",
